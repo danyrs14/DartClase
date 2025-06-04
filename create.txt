@@ -1,0 +1,7 @@
+comando para crear un proyecto desde la consola o cmd
+D:\danyr\Dart>dart create -t console ejemplo
+en el archivo pubspec.yaml vamos a agregar las dependencias correspondientes desde pub.dev
+copiar y pegar de la parte ejemplo en el main.dart
+una ves puesta la dependencia en pubspec.yaml pondremos en el cmd dart pub get
+leer bien la documentacion
+dart compile exe ./main.dart -> esto es para crear una app de consola 
